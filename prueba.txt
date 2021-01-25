@@ -2,43 +2,43 @@
   {
     "nombre": "Doc",
     "hobby": "Limpiar",
-    "edad": 30,
-    "telefono": 3001540854,
+    "edad": "30",
+    "telefono": "3001540854",
     "direccion": "Avenida nunca jamas 504"
   },
   {
     "nombre": "Grunon",
     "hobby": "Ver series",
-    "edad": 22,
-    "telefono": 9647820300,
+    "edad": "22",
+    "telefono": "9647820300",
     "direccion": "Casa amarilla 1078"
   },
   {
     "nombre": "Feliz",
     "hobby": "Pintar",
-    "edad": 20,
-    "telefono": 4445559977,
+    "edad": "20",
+    "telefono": "4445559977",
     "direccion": "Villa arcoiris 10"
   },
   {
     "nombre": "Dormilon",
     "hobby": "Leer",
-    "edad": 33,
-    "telefono": 1234567890,
+    "edad": "33",
+    "telefono": "1234567890",
     "direccion": "Avenida de morfeo 896"
   },
   {
     "nombre": "Estornudo",
     "hobby": "Caminar",
-    "edad": 60,
-    "telefono": 7417983066,
+    "edad": "60",
+    "telefono": "7417983066",
     "direccion": "Valle esmeralda 74"
   },
   {
     "nombre": "Timido",
     "hobby": "Cantar",
-    "edad": 30,
-    "telefono": 9993336610,
+    "edad": "30",
+    "telefono": "9993336610",
     "direccion": "Fraccionamiento aldea 96"
   }
 ]
